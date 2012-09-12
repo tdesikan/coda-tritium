@@ -1,4 +1,0 @@
-coda-tritium
-============
-
-Coda files

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Comments</key>
+	<dict>
+		<key>StartTag</key>
+		<string>#</string>
+	</dict>
+	<key>Completion</key>
+	<array>
+		<dict>
+			<key>Hints</key>
+			<string>add_class(&quot;mw_testing&quot;)</string>
+			<key>ID</key>
+			<string>add_class</string>
+			<key>String</key>
+			<string>add_class</string>
+		</dict>
+	</array>
+	<key>Name</key>
+	<string>Tritium</string>
+</dict>
+</plist>

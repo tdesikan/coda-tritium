@@ -1,0 +1,18 @@
+How to install:
+Copy these folder into the following location inside your user folder :
+/Library/Application Support/Coda/Modes
+
+What is Coda:
+http://www.panic.com/coda/
+
+ts.mode v0.1
+This will work with any version of Coda installed in your system.
+What comes with v0.1:
+Auto Complete
+Syntax Highlighting
+
+
+Sass.mode
+I didn't create this, but i did make some small changes to fix some bugs.
+Here is a link to the personal responsible for it:
+http://github.com/Brajeshwar/Sass.mode
